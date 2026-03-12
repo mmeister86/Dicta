@@ -9,7 +9,5 @@
 		<string>remote-notification</string>
 		<string>audio</string>
 	</array>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>Dicta benötigt Zugriff auf das Mikrofon, um Sprachaufnahmen zu erstellen.</string>
 </dict>
 </plist>
