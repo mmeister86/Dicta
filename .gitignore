@@ -1,0 +1,17 @@
+# Operating system
+.DS_Store
+
+# Xcode
+DerivedData/
+*.xcuserdata
+*.xcuserdatad
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# Axiom agent artifacts
+.agents/
+.claude/
